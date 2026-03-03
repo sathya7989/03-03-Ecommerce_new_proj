@@ -10,6 +10,7 @@ public class EcommerceApplication {
 		SpringApplication.run(EcommerceApplication.class, args);
 		System.out.println("welcome to java");
 		System.out.println("Rama Koti");
+		System.out.println("@@@@@@@@@@");
 	}
 
 }
